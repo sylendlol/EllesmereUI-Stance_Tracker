@@ -1,4 +1,7 @@
 # EllesmereUI-Stance_Tracker
+<img width="1309" height="948" alt="{828321AC-8788-4046-B3F2-B89B5C828CC9}" src="https://github.com/user-attachments/assets/ae925c23-452a-489b-bff2-ebc27c5a97c3" />
+<img width="1306" height="944" alt="{A9E13D32-04B7-4382-B417-B54D9E773428}" src="https://github.com/user-attachments/assets/d834687a-6f57-47e7-b3a6-3b17f3ca94b0" />
+<img width="1310" height="945" alt="{5FA18C69-3371-411A-A925-2F79FA286A1B}" src="https://github.com/user-attachments/assets/8faaafd3-7e25-458b-b2a6-4edbcb600fef" />
 
 A stance / form / aura / aspect tracker, built as a module for the **Dworak** section of [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui).
 It shows one icon for what **you** are running right now: your Warrior stance, Druid form, Paladin aura or Hunter aspect.
